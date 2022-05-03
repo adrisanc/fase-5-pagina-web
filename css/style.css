@@ -34,7 +34,7 @@ html,main{
 
 /*HEADER*/
 header{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.966)),url('/css/img/Backgroundconcert.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.966)),url('./css/img/Backgroundconcert.jpg');
     background-size: cover;
     background-position: center;
     width: 100%;
